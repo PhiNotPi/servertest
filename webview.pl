@@ -6,4 +6,4 @@ sub readall{
     }
     $allcontents;
 }
-print readall("results.txt");
+print readall("report.txt");
